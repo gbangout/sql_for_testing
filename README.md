@@ -1,7 +1,8 @@
 # sql_for_testing
 
 ## Getting set up with the tools (in linux)
-### Set a local database: SQL-for-testers-practice-site-master.zip
+### Set a local database: 
+get SQL-for-testers-practice-site-master.zip
 
 ### Set a local website (e.g. site built with flask):
 sudo apt install python3-flask
